@@ -1,4 +1,4 @@
-##    Bienvenido/a 👋
+##    Bienvenido/a! 👋
 
 - 💻 Acá vas a encontrar **material/proyectos** de la **facultad** y **proyectos personales**.
 - 🎓 Estudiante de  **Licenciatura en Sistemas** en la UNLP. 
