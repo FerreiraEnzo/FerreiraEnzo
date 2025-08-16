@@ -1,7 +1,7 @@
 ##    Bienvenido/a 👋
 
-- 💻 Acá vas a encontrar **proyectos/material** de la **facultad** y **proyectos personales**.
-- 🎓 Estudiante de la **Licenciatura en Sistemas** en la UNLP. 
+- 💻 Acá vas a encontrar **material/proyectos** de la **facultad** y **proyectos personales**.
+- 🎓 Estudiante de  **Licenciatura en Sistemas** en la UNLP. 
 
 ## 📩 Contacto
 
