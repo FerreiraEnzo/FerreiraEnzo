@@ -1,10 +1,24 @@
-  <h1 align="center">¡Hola! 👋 Soy Enzo Ferreira Santos</h1>
+  <h1 align="center">¡Hola! Soy Enzo Ferreira Santos 👋 </h1>
 
-<p align="center">
-  <img src="GitHub Image.jpg" width="1000" />
-</p>
+# Sobre mí:
+  🎓 Estudiante de **Licenciatura en Sistemas y Analista Programador Universitario** en la Universidad Nacional de La Plata (UNLP).
+  Actualmente cursando el tercer año, me apasiona aprender nuevas tecnologías y desarrollar soluciones prácticas y eficientes, trabajando en un entorno colaborativo. 
 
 ---
+
+# 💻 Tecnologías y Herramientas:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
 <h2 align="center">📫 Contacto</h2>
 
 <p align="center">
