@@ -1,12 +1,12 @@
   <h1 align="center">¡Hola! Soy Enzo Ferreira Santos 👋 </h1>
 
-# Sobre mí:
   🎓 Estudiante de **Licenciatura en Sistemas y Analista Programador Universitario** en la Universidad Nacional de La Plata (UNLP).
+
   Actualmente cursando el tercer año, me apasiona aprender nuevas tecnologías y desarrollar soluciones prácticas y eficientes, trabajando en un entorno colaborativo. 
 
 ---
 
-# 💻 Tecnologías y Herramientas:
+### 💻 Tecnologías y Herramientas:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
