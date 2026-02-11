@@ -23,15 +23,16 @@
 
 <p>
   <a href="https://linkedin.com/in/enzoferreiras" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:ferreirasantosenzo63@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" />
   </a>
 </p>
+
 
 
 
